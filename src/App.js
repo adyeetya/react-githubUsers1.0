@@ -1,7 +1,7 @@
 import React from 'react'
 import { Dashboard, Login, PrivateRoute, AuthWrapper, Error } from './pages'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-
+// changes for the testing branch
 function App() {
   return (
     <AuthWrapper>
